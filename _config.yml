@@ -1,7 +1,7 @@
 title: "Flag Football Head Coach Journal Project"
 email: farias.claudiac@gmail.com
 timezone: UTC
-baseurl: ""
+baseurl: "/flag-football-blog"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
