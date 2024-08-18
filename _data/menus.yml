@@ -1,32 +1,31 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Início
   url: ""
 
-- title: About
-  url: "about/"
+- title: Ataque
+  url: ""
+
+- title: Defesa
+  url: ""
 
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Início
   url: ""
 
-- title: Privacy Policy
+- title: Privacidade
   url: "privacy-policy/"
 
-- title: Contact
+- title: Contato
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Responsda nossa pesquisa para Atletas e Coaches
+  url: "" 
   external: true
