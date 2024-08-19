@@ -1,6 +1,10 @@
-\---   
- layout: post title: "Como jogar uma bola de futebol mais longe" author: farias categories: \[Offense\] image: https://prod-files-secure.s3.us-west-2.amazonaws.com/79956301-a6db-4d52-b90e-a99a124b2908/f401e705-1072-4a77-b1d4-95b60b42bf7f/DSC\_0216\_rz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240818%2Fus-west-2%2Fs3%2Faws4\_request&X-Amz-Date=20240818T221336Z&X-Amz-Expires=3600&X-Amz-Signature=cf4de089072ef5a3c05261a7ba984c5c94b37754638a6da9486031421a4b7402&X-Amz-SignedHeaders=host&x-id=GetObject   
- \---   
+---   
+ layout: post 
+ title: "Como jogar uma bola de futebol mais longe" 
+ author: farias 
+ categories: [Offense] 
+ image: https://prod-files-secure.s3.us-west-2.amazonaws.com/79956301-a6db-4d52-b90e-a99a124b2908/f401e705-1072-4a77-b1d4-95b60b42bf7f/DSC\_0216\_rz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240818%2Fus-west-2%2Fs3%2Faws4\_request&X-Amz-Date=20240818T221336Z&X-Amz-Expires=3600&X-Amz-Signature=cf4de089072ef5a3c05261a7ba984c5c94b37754638a6da9486031421a4b7402&X-Amz-SignedHeaders=host&x-id=GetObject   
+---   
 
 # As 4 chaves para melhorar a força do braço
 
