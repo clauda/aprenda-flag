@@ -18,6 +18,6 @@ Essa leitura é importante. Se a sua quarterback olhar imediatamente para o curl
 
 Você também deve certificar-se de deixar seus wide receivers soltos em uma rota de vez em quando. Mais uma vez, a defesa irá trapacear se você não fizer isso.
 
-![](https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2024/01/Double-Curl-Flat-Read.png))   
+![](https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2024/01/Double-Curl-Flat-Read.png)   
 
 Uma última dica. Se você estiver treinando jovens jogadores de flag football, encurte a profundidade da rota para corresponder à força do braço do seu QB. Você começará a ver rapidamente como está ajudando seus jogadores a se desenvolverem com este conceito de curl flat de flag football.

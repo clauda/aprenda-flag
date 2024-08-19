@@ -20,7 +20,7 @@ Como treinador, é sua função descobrir até que ponto o seu ataque pode aguen
 
 Nós, como treinadores, procuramos a resposta perfeita para cada defesa ou ataque. Vamos encarar. Às vezes, a oposição faz uma leitura perfeita para o que você desenhou. Acontece. Nada demais. Deixe para lá e siga em frente.
 
-![](https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2021/08/Play-Fast.png))   
+![](https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2021/08/Play-Fast.png)   
 
 Os treinadores defensivos também são culpados aqui. Você quer ter um ajuste para tudo o que o ataque “poderia” fazer. Se você for inteligente, você se preparará para o que eles mais fazem e fará uma verificação para qualquer coisa diferente disso. Seus jogadores acabarão acertando você com mais frequência se estiverem jogando rápido.
 

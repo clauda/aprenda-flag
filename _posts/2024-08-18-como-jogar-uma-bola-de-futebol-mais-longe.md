@@ -19,7 +19,7 @@ O erro mais comum que vi ao analisar milhares de horas de arremessos de quarterb
 
 ### O caminho/movimento do braço 
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/how-to-throw-a-football-wrist-1024x549.jpg)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/how-to-throw-a-football-wrist-1024x549.jpg "") 
+ ![Exemplo de trajetória do braço do quarterback para lançar uma bola de futebol com uma espiral apertada](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/how-to-throw-a-football-wrist-1024x549.jpg "Exemplo de trajetória do braço do quarterback para lançar uma bola de futebol com uma espiral apertada") 
 
 A coisa mais importante a considerar para lançar uma bola de futebol mais longe é a trajetória do braço. A maioria dos zagueiros bagunça a trajetória do braço de uma forma ou de outra ao jogar a bola mais longe, porque o movimento do arremesso muda ao jogar a bola para longe ou para baixo. Existem duas mudanças principais que acontecem ao lançar a bola mais longe: 1\. Mudanças no ponto de lançamento. 2\. O pé dianteiro dá um passo maior. Portanto, a posição de liberação é mais para trás, enquanto dar um passo maior faz com que o peso se desloque para frente mais cedo.
 
@@ -27,7 +27,7 @@ A coisa mais importante a considerar para lançar uma bola de futebol mais longe
 
 Além disso, depois de carregar a bola de futebol, o cotovelo quer passar/avançar com ação limitada acontecendo no pulso, além de virar em direção ao alvo. Se o pulso dobrar muito ou o cotovelo não passar imediatamente, a bola acabará muito atrás da cabeça ou em direção à linha média. Isso limita a quantidade de força centrífuga que pode ser criada no pulso e na mão.
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Patrick-mahomes-slow-motion-throw-1024x166.jpg)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Patrick-mahomes-slow-motion-throw-1024x166.jpg "") 
+![Observe a posição do dedo indicador da mão dominante](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Patrick-mahomes-slow-motion-throw-1024x166.jpg "Observe a posição do dedo indicador da mão dominante") 
 
 Posição neutra
 
@@ -35,7 +35,7 @@ Por último, quando a bola está realmente saindo das mãos, o pulso quer estar 
 
 ### Dissociação de quadril e ombro
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Hip-And-Shoulder-Disassocation-Example-1.jpg)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Hip-And-Shoulder-Disassocation-Example-1.jpg "") 
+ ![Vá mais fundo para obter alcance extra na coluna e jogar uma bola de futebol mais longe](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Hip-And-Shoulder-Disassocation-Example-1.jpg "Vá mais fundo para obter alcance extra na coluna e jogar uma bola de futebol mais longe") 
 
 Agora, com o tronco, deve haver ênfase na criação ou maximização da dissociação entre quadril e ombros. Quanto melhor a rotação que os quadris podem gerar enquanto o ombro frontal se mantém fechado, mais força pode ser gerada quando o ombro frontal se abre. A força do tronco é criada puxando agressivamente o cotovelo para trás na lateral do corpo enquanto o braço de trás é acelerado para frente.
 
@@ -45,13 +45,13 @@ A última parte crítica do corpo que influencia a força e a distância do arre
 
 ### Distribuição de Peso
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/04/Longest-Football-Throw-Weight-Distribution-1.png)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/04/Longest-Football-Throw-Weight-Distribution-1.png "") 
+![Tom Brady e Drew Brees usando distribuição de peso para aumentar a distância ao lançar uma bola de futebol](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/04/Longest-Football-Throw-Weight-Distribution-1.png "Tom Brady e Drew Brees usando distribuição de peso para aumentar a distância ao lançar uma bola de futebol") 
 
 Para desenvolver isso, é importante compreender a mudança de peso que ocorre durante o lançamento da bola de futebol. Os quarterbacks que arremessam com mais força e distância de arremesso são capazes de coordenar a distribuição do peso corporal inferior com o movimento do pulso. Embora o tamanho e a força gerais certamente ajudem no talento dos braços, na verdade, a capacidade de utilizar efetivamente todo o corpo no arremesso é mais importante para arremessar a bola mais longe.
 
 ### A mudança de peso
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Longest-Football-Throw-weight-shift-1.png)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Longest-Football-Throw-weight-shift-1.png "") 
+ ![Michael Vick usando os quadris e a perna traseira para criar mais força no arremesso](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/Longest-Football-Throw-weight-shift-1.png "Michael Vick usando os quadris e a perna traseira para criar mais força no arremesso") 
 
 A última parte do arremesso é quando todo o peso é transferido para cima e para o pé dianteiro. É importante reconhecer que a força está subindo, mas não tão rapidamente quanto muitos quarterbacks fazem a transição para cima. Primeiro, o peso quer avançar com rotação e, à medida que a bola é lançada, ainda deve haver força suficiente atrás para permitir uma forte produção de força para cima. Um erro comum é transladar a força para cima, antes das componentes direta e rotacional.
 
@@ -59,13 +59,13 @@ A última parte do arremesso é quando todo o peso é transferido para cima e pa
 
 Ao começar a trabalhar com um novo quarterback, há alguns fundamentos importantes que queremos melhorar para melhor lançar a bola no campo. Jogar uma bola de futebol com uma espiral estreita pode ser bastante fácil quando se joga menos de 20 jardas, mas aprender como jogar a bola para longe requer prática concentrada e memória muscular.
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/8f9bad04-48dc-445d-8763-0041a97fdc65-1.png)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/8f9bad04-48dc-445d-8763-0041a97fdc65-1.png "") 
+ ![Obter alcance total no movimento do pulso e seguir em frente é a chave para lançar a bola para longe](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/12/8f9bad04-48dc-445d-8763-0041a97fdc65-1.png "Obter alcance total no movimento do pulso e seguir em frente é a chave para lançar a bola para longe") 
 
 ### Liberação
 
 Sempre digo aos zagueiros que é fácil identificar alguém que tem boa força no braço ao lançar uma bola de futebol apenas vendo como a bola sai do dedo indicador. Seja no campo, na praia ou no quintal. A maneira como a bola sai da mão sempre se destaca, por isso você realmente precisa se concentrar em treinar como lançar a bola corretamente. Em relação ao tempo de lançamento, a bola deve sair de suas mãos em 0,3-0,35 segundos, enquanto a maioria dos receivers que procuram aumentar a distância levam mais de 0,4 segundos!!
 
- \[!\[\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/11/c2cb0b4b-b796-4b57-b7ca-8ff753ee4deb-1-1024x446.png)\](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/11/c2cb0b4b-b796-4b57-b7ca-8ff753ee4deb-1-1024x446.png "") 
+ ![Para adicionar mais distância, a base deve ser maior que a largura dos ombros](https://www.performancelabofcalifornia.com/wp-content/uploads/2022/11/c2cb0b4b-b796-4b57-b7ca-8ff753ee4deb-1-1024x446.png "Para adicionar mais distância, a base deve ser maior que a largura dos ombros") 
 
 ### Está tudo nos quadris
 
