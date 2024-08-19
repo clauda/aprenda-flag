@@ -1,10 +1,10 @@
- ---   
+---   
  layout: post   
  title: "3 Coisas que diminuem a velocidade de um time ofensivo"   
  author: farias   
- categories:  [Offense,Defense\]   
+ categories:  [Offense,Defense]   
  image: https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2021/08/Play-Fast.png   
-  ---   
+---   
 
 Você quer que seu ataque seja rápido. Entendemos que a velocidade da sua equipe é o que é. Também entendemos que todo treinador enfatiza o esforço e a pressa. (pelo menos você deveria).
 

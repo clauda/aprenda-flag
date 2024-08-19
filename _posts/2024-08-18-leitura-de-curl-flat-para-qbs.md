@@ -1,10 +1,10 @@
-\---   
+---   
  layout: post  
  title: "Leitura de Curl-Flat para QBs"  
  author: farias   
- categories: \[Offense\]  
+ categories: [Offense]  
  image: https://firstdown.playbooktech.com/coaches-community/wp-content/uploads/2024/01/Double-Curl-Flat-Read.png   
- \---  
+---  
 
 O conceito curl flat pass é bastante universal. Hoje queremos ver como o seu quarterback deve interpretar o conceito de curl flat do flag football.
 

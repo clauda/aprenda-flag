@@ -5,12 +5,12 @@ topmenu:
   url: ""
 
 - title: Ataque
-  url: ""
+  url: "categories/#offense"
 
 - title: Defesa
-  url: ""
+  url: "categories/#defense"
 
-- title: Contact
+- title: Contato
   url: "contact/"
 
 
